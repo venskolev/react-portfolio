@@ -35,8 +35,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 A straightforward React-based portfolio template tailored for developers and designers.
 
 ### Features
--Bootstrap
--Contact form with EmailJs
--TypewriterJS v2 effect
--React Helmet
--React UI tools / Material UI
+- Bootstrap
+- Contact form with EmailJs
+- TypewriterJS v2 effect
+- React Helmet
+- React UI tools / Material UI
