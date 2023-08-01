@@ -1,0 +1,13 @@
+.menu_footer {
+  bottom: 0;
+  font-family: Marcellus;
+  font-size: 14px;
+  background: var(--primary-color);
+}
+
+.menu_footer a {
+  color: var(--text-color-2);
+  margin-top: 2rem;
+  margin-right: 10px;
+  text-decoration: none;
+}
