@@ -114,7 +114,46 @@ const services = [
 ];
 
 // Portfolio data
-const dataportfolio = [
+const dataportfolio_anoter = [
+  {
+    img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_9da11a340668a7b4c1bf5ed11c48522f.jpg",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_67b49810c87bb743e0c7a8a7d6852655.jpg",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_b48266e9c19b2e4caad2c4584f075c52.jpg",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_9ae41eaad66a3cd3784c3f34c53748f8.jpg",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_6115c58c3038c0e47fdd71202f3cdfa1.jpg",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_6115c58c3038c0e47fdd71202f3cdfa1.jpg",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+]
+
+const dataportfolio_photography = [
   {
     img: "https://photos.gurushots.com/unsafe/0x0/7a1d232c0d19a496d878944d745b0cf8/3_9da11a340668a7b4c1bf5ed11c48522f.jpg",
     description:
@@ -216,7 +255,8 @@ const socialprofils = {
 export {
   meta,
   dataabout,
-  dataportfolio,
+  dataportfolio_anoter,
+  dataportfolio_photography,
   worktitle,
   worktimeline,
   skills,
